@@ -1,5 +1,5 @@
-# ULTRA DARK THEME 
-Works on Edge, you can try on Chrome/Chromium also.
+# Edge ULTRA DARK THEME 
+Works on Edge, but you can try on Chrome/Chromium also.
 
 ## How to install
 
