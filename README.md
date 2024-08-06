@@ -14,4 +14,4 @@ You can also replace it with `theme_toolbar.png` if you want the whole active ta
 
 # Preview
 
-![Preview](https://github.com/user-attachments/assets/e30c5d7c-d9cb-447c-9164-d64cfe3bfc80)
+![Preview](https://github.com/user-attachments/assets/ea50ac61-52c5-4d97-8cb6-e54cd46e835d)
