@@ -7,10 +7,22 @@ Works on Edge, but you can try on Chrome/Chromium also.
 2. Enable Developer Mode
 3. Drag and drop the achived folder to the `Extensions` tab
 
-## How to edit
+## How to change the color
 
-Open `theme_toolbar_line.png` and change the color of the toolbar line.
-You can also replace it with `theme_toolbar.png` if you want the whole active tab to stand out.
+Open `theme_toolbar_line_chrome.png` and change the color of the toolbar line.
+
+## Different styles
+
+Open manifest.json and look at this line:"
+
+```            "theme_toolbar": "images/theme_toolbar_line_chrome.png",```
+
+If you want a gradient on active tab change it to `theme_toolbar_gradient.png`
+
+If you want the highlight to be below and not above, change it to `theme_toolbar_line_chrome_below.json`
+
+## For edge
+Change `theme_toolbar_line_chrome.png` to `theme_toolbar_line_edge.png`
 
 # Preview
 
