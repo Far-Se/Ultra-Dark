@@ -1,5 +1,8 @@
-# Edge ULTRA DARK THEME 
-Works on Edge, but you can try on Chrome/Chromium also.
+# BROWSER ULTRA DARK THEME 
+
+# [Web Store Link](https://chromewebstore.google.com/detail/ultra-dark-theme-with-gra/gancjmokmmckiobpfjnchnpkgfamgiep?authuser=0&hl=en)
+
+For Chrome/Brave but works on Edge as well.
 
 ## How to install
 
